@@ -1,0 +1,92 @@
+            *{margin: 0px;padding: 0px;}
+		    ul{list-style: none; margin: 0px;padding: 0px;}
+		    .cl{clear: both;}
+			.header{width: 100%;height: 66px;}
+			.header .header_top{width: 1170px;height: 88px;margin: 0 auto;margin-top: 30px;}
+			.header .header_left{width: 122px;height: 30px;float: left;}
+			.header .header_left .text{color: #5e5e5e; font-size: 30px; font-weight: 100; line-height: 30px;padding-left: 15px;text-decoration: none;}  
+			.header .header_left span{color: #f25f5b;}
+			.header .header_right{width: 700px;height: 44px; float:right; }
+			.header .header_right ul .nav{float:right; }
+			.header .header_right ul li{float: left; padding-right: 3px;font-family: "微软雅黑";}
+			.header .header_right ul li a{ text-decoration: none; color: #999999; font-size: 14px;padding: 8px;background-color: #FFFFFF;}
+			.header .header_right .nav .aa:hover{background-color: #F77B6F;color: #FFFFFF; border-radius: 4px;} 
+			
+			.header .header_right .serch1{background: url(../images/about_06.gif) no-repeat 11px 8px; padding: 0 5px 0 35px;width: 145px; height: 33px;margin-top: -2px;border: 1px solid #EBEBEB;}
+		
+			
+				 
+			.header_center{width: 100%;height: 125px; background: #475268; }
+			.header_center .header_center1{width: 1130px;height: 20px;margin: 0 auto;padding-top: 50px;}
+			.header_center .center_left{float: left;line-height: 20px;}
+			.header_center .center_left .ab{color: #fff; font-size: 24px;font-weight: 600;}
+			.header_center .center_right{float: right;} 
+			.header_center .center_right li span{color: #B7CCBC; font-size: 12px;}
+			.header_center .center_right li{float: left;color: #EC6569;padding-left: 10px;}
+			.header_center .center_right li a{color: #FFFFFF;}
+			
+				
+			.main{width: 100%;height: 340px;background: #FFFFFF;}
+			.main .main_center{width: 1130px;height: 340px;margin: 0 auto;margin-top: 40px;}
+			.main .main_center .main1{width: 1130px;height: 267px;} 
+			.main .main_center .main1 .ad{width: 457px;height: 257px; float: right;}
+			.main .main_center .main1 .txt{width: 647px;height: 257px;float: left;}
+			.main .main_center .main1 .txt .txt1{width: 219px;height: 22px;margin-top: 5px; color: #475168; font-size: 22px;font-family:sans-serif;}
+			.main .main_center .main1 .txt .txt2{margin-top: 17px;color: #858585; font-family: arial;font-size: 13px; line-height: 22px;}
+			
+			.main .main_bottom{width: 1128px;height: 75px; margin-top: 80px;}
+			.main .main_bottom .left{width: 541px;height: 75px;float: left;}
+			.main .main_bottom .left .logo{width: 61px;height: 60px;float: left; margin-top: 10px;}
+			.main .main_bottom .left .io{width: 456px;height: 70px;float: right;}
+			.main .main_bottom .left .io .ios{width: 220px;height: 20px;font-size: 20px;font-family:sans-serif;color: #475168;}
+			.main .main_bottom .left .io .ios1{margin-top:10px;color: #858585; font-family: arial;font-size: 13px; line-height: 22px;}
+			.main .main_bottom .right{width: 541px;height: 75px;float: right;}
+			.main .main_bottom .right .logo1{width: 61px;height: 60px;float: left; margin-top: 10px;}
+			.main .main_bottom .right .io1{width: 456px;height: 70px;float: right;}
+			.main .main_bottom .right .ios2{width: 220px;height: 20px;font-size: 20px;font-family:sans-serif;color: #475168;}
+			.main .main_bottom .right .ios3{margin-top:10px;color: #858585; font-family: arial;font-size: 13px; line-height: 22px;}
+			.san{width: 100%;height: 388px;background: #F2F2F2;}
+			.san .san1{text-align: center;}
+			
+			.si{width: 100%;height: 686px;background: #F2F2F2;}
+			.si .si_center{width: 650px;height: 60px;margin: 0 auto;}
+			.si .si_center .center_top{width: 668px;height: 57px;margin:0 auto ;padding-top: 130px;}
+			.si .si_center .center_top .ou{width:200px;height: 20px;font-family:sans-serif;color: #475168;margin:0 auto ;    font-size: 30px;    font-weight: 300;}
+			.si .si_center .center_top .ae{margin-top:20px;font-family: arial;color: #8a8b8b;font-size: 18px;}
+			
+			.si .center_bottom{width: 1144px;height: 332px;margin: 0 auto;margin-top: 150px;}
+			.si .center_bottom .bottom_left{width: 542px;height: 332px;float: left;padding-left: 30px;}
+			.si .center_bottom .bottom_left .left_top{width: 542px;height: 75px;padding-top: 40px;float: left;}
+			.si .center_bottom .bottom_left .left_top .logo{width: 61px;height: 60px;float: left; margin-top: 10px;}
+			.si .center_bottom .bottom_left .left_top .io{width: 456px;height: 70px;float: right;}
+			.si .center_bottom .bottom_left .left_top .io .ios{width: 220px;height: 20px;font-size: 20px;font-family:sans-serif;color: #475168;}
+			.si .center_bottom .bottom_left .left_top .io .ios1{margin-top:10px;color: #858585; font-family: arial;font-size: 13px; line-height: 22px;}
+			
+			
+			.zui{width: 1142px;height: 487px;margin: 0 auto;margin-top:80px;}
+			.zui .ot{color: #475168; font-size: 22px;font-family:sans-serif;}
+			.zui .lid{color: #858585; font-family: arial;font-size: 14px;margin-top: 35px;}
+			.zui img{margin-top: 35px;}
+			
+				
+			.footer{width: 100%;height: 314px;margin-top: 60px;background: #475268;}
+			.footer .footer_center{width: 1064px;height: 187px;margin: 0 auto;padding-top: 60px;}
+			.footer .footer_left{width: 192px;height: 187px;float: left;}
+			.footer .footer_left .co{font-size: 20px;color: #ffffff;float: left;}
+			.footer .footer_left .add{width: 194px;height: 140px;float: left;}
+			.footer .footer_left ul li{color: #fff;padding-top: 15px;font-size: 14px;float: left;}
+			.footer .footer_left ul .su{color: #EC6569;float: left;}
+			
+			.footer .footer_center1{width: 250px;height: 54px;float: left;margin-left: 100px;}
+			.footer .footer_center1 .la{font-size: 20px;font-size: 20px;color: #ffffff;float: left;}
+			.footer .footer_center1{width: 250px;height: 54px;float: left;}
+			.footer .footer_center1 .mo{width: 315px;height: 17px;float: left;font-size: 12px;}
+			.footer .footer_center1 .mo .mor{float: left;color: #FFFFFF;}
+			.footer .footer_center1 .mo .moban{float: left;color: #444E67;}
+			.footer .footer_center1 .mo .coll{float: left;padding-left: 50px;color: #FFFFFF;}
+			.footer .footer_center1 .mo .wangye{float: left;color: #444E67;}
+			
+			.footer .footer_right{width: 232px;height: 154px;float: right;}
+			.footer .footer_right .st{width: 141px;height: 18px;float: left;font-size: 20px;color: #ffffff;}
+			.footer .footer_right .fff{width: 230px;height: 114px;float: left;}
+			.footer .footer_right .fff ul li{width: 50px;height: 50px;float: left;padding: 3px;margin-top: 10px;}
